@@ -154,7 +154,7 @@ B.Tech — Computer Science & Engineering (AI/ML)
 
 ### Connect With Me
 
-* **GitHub:** https://github.com/nnnabeelali
+* **GitHub:** https://github.com/Sayednabeelali
 * **LinkedIn:** Add your LinkedIn profile link here
 
 ---
